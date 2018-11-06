@@ -2,7 +2,7 @@ import nexmo
 import smtplib 
 
 api_key = '38094c1f'
-api_secret = '85537034ad5c8b8e'
+api_secret = '?? API KEY HERE ??'
 
 client = nexmo.Client(key=api_key, secret=api_secret)
 
